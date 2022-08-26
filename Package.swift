@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(name: "TensorFlowLiteC",
-                 url: "https://github.com/Edgarchuk/TensorFlowLiteC", branch: "master"),
+                 url: "https://github.com/antongrbin/TensorFlowLiteC", branch: "master"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
